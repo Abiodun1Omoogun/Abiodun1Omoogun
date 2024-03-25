@@ -5,14 +5,14 @@
 - 
 -->
 
-Hi there 👋 My name is Emmanuel Omoogun
+Hi there 👋 My name is Emmalex
 =================================
 
-Full-stack Developer
+Full-stack Developer || Web 3 Developer || Bug Bounties Hunter
 --------------------
 
 * 🌍  I'm based in Lagos, Nigeria
-* ✉️  You can contact me at [\[abiodunebun12\](mailto:abiodunebun12@gmail.com)](mailto:[abiodunebun12](mailto:abiodunebun12@gmail.com))
+* ✉️  You can contact me at [\[abiodunebun12](mailto:abiodunebun12@gmail.com)](mailto:[abiodunebun12](mailto:abiodunebun12@gmail.com))
 * 🧠  I'm currently learning a new JavaScript framework
 * 🤝  I'm open to collaborating on interesting and mind blowing projects
 * 🔭  I’m currently working on ...
