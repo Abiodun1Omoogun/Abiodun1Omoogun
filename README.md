@@ -8,6 +8,8 @@
 Hi there 👋 My name is Emmalex
 =================================
 
+![Profile Views](https://komarev.com/ghpvc/?username=Abiodun1Omoogun&color=blue&style=flat-square)
+
 ### 🧠 Full Stack Blockchain Engineer | DAO Architect | Solana Smart Contract Developer
 
 Welcome to my corner of the chain 🧩—I build dApps that empower decentralized communities through clean code and on-chain logic. I work mainly with:
